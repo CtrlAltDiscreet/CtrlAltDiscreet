@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CtrlAltDiscreet
-- 👀 I’m interested in University :D
-- 🌱 I’m currently learning Web Development and Java
-- 📫 How to reach me: email
+- 👀 I’m interested in surviving university :D
+- 🌱 I’m currently learning Agent Based Modelling and C
+- 📫 How to reach me: yhk1@st-andrews.ac.uk
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can play the violin!
+- ⚡ Fun fact: N/A
 
 <!---
 CtrlAltDiscreet/CtrlAltDiscreet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
